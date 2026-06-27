@@ -8,8 +8,8 @@ const Footer = () => {
       <div className="footer-container">
         {/* Column 1: About */}
         <div className="footer-column">
-          <h3>About LUXE</h3>
-          <p>Discover the world's finest luxury fragrances. Each bottle tells a story of elegance and sophistication.</p>
+          <h3>About RIBELL</h3>
+          <p>Discover the world's finest luxury fragrances. Each bottle tells a story of elegance and sophistication. RIBELL - Where Elegance Meets Rebellion.</p>
         </div>
 
         {/* Column 2: Quick Links */}
@@ -43,13 +43,13 @@ const Footer = () => {
             <a href="#twitter" className="social-icon"><FiTwitter /></a>
             <a href="#email" className="social-icon"><FiMail /></a>
           </div>
-          <p className="footer-email">contact@luxeperfume.com</p>
+          <p className="footer-email">contact@ribell.com</p>
         </div>
       </div>
 
       {/* Bottom Copyright */}
       <div className="footer-bottom">
-        <p>&copy; 2024 LUXE Perfume. All rights reserved. | <a href="#privacy">Privacy Policy</a> | <a href="#terms">Terms of Service</a></p>
+        <p>&copy; 2024 RIBELL. All rights reserved. | <a href="#privacy">Privacy Policy</a> | <a href="#terms">Terms of Service</a></p>
       </div>
     </footer>
   );
