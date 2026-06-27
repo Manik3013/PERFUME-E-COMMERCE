@@ -1,7 +1,7 @@
 {
-  "name": "perfume-ecommerce",
+  "name": "ribell-perfume",
   "version": "1.0.0",
-  "description": "Professional luxury perfume e-commerce website",
+  "description": "RIBELL - Premium luxury perfume e-commerce website",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
