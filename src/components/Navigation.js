@@ -20,7 +20,7 @@ const Navigation = () => {
       <div className="navbar-container">
         {/* Logo */}
         <Link to="/" className="navbar-logo">
-          <span className="logo-text">✨ LUXE</span>
+          <span className="logo-text">✨ RIBELL</span>
         </Link>
 
         {/* Desktop Menu */}
