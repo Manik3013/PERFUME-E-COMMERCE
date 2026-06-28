@@ -31,6 +31,11 @@ const Navigation = () => {
           <Link to="/products/unisex" className="nav-link">Unisex</Link>
         </div>
 
+        {/* Right Section with Brand Name */}
+        <div className="navbar-center">
+          <span className="brand-tag">MANIK PRODUCTIONS</span>
+        </div>
+
         {/* Right Icons */}
         <div className="navbar-right">
           <button className="nav-icon search-icon">
